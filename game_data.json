@@ -1,0 +1,62 @@
+{
+  "chapter1": {
+    "scene": "The mayor's body lies in his study.",
+    "actions": [
+      "Examine Crime Scene",
+      "Interview the Housekeeper",
+      "Investigate the Mayor's Office"
+    ],
+    "clues": ["Note about a hidden safe behind the painting"],
+    "weapons": [
+      {
+        "question": "Check behind the painting for any hidden objects? y/n: ",
+        "type": "Key to the Mayor's Office"
+      }
+    ]
+  },
+  "chapter2": {
+    "scene": "A mysterious informant in the shadows of the abandoned warehouse.",
+    "actions": [
+      "Meet the Informant",
+      "Survey the Town's Activity",
+      "Decode the Encrypted Emails"
+    ],
+    "clues": ["Hint about specialized decryption software in the informant's computer"],
+    "weapons": [
+      {
+        "question": "Use the computer to crack the email encryption? y/n: ",
+        "type": "Decryption Software"
+      }
+    ]
+  },
+  "chapter3": {
+    "scene": "A high-stakes gala where truths and lies intertwine.",
+    "actions": [
+      "Eavesdrop on Elite Conversations",
+      "Secure a Confidential Informant",
+      "Discover the Gala's Hidden Agenda"
+    ],
+    "clues": ["Whisper about important documents in a private office"],
+    "weapons": [
+      {
+        "question": "Investigate the private office for any incriminating documents? y/n: ",
+        "type": "Confidential Files"
+      }
+    ]
+  },
+  "chapter4": {
+    "scene": "The final confrontation in the mayor's hidden study.",
+    "actions": [
+      "Unveil the Syndicate's Master Plan",
+      "Face the True Culprit",
+      "Expose the Conspiracy to the Public"
+    ],
+    "clues": ["Tip about a hidden recording device in the study"],
+    "weapons": [
+      {
+        "question": "Search the study for a hidden recording device? y/n: ",
+        "type": "Incriminating Audio Recording"
+      }
+    ]
+  }
+}
